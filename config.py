@@ -1,0 +1,8 @@
+# config.py
+import os
+
+TOKEN = os.getenv("TELEGRAM_TOKEN")
+MERCADO_PAGO_ACCESS_TOKEN = os.getenv("MERCADO_PAGO_ACCESS_TOKEN")
+PAYPAL_CLIENT_ID = os.getenv("PAYPAL_CLIENT_ID")
+PAYPAL_SECRET_KEY = os.getenv("PAYPAL_SECRET_KEY")
+ZBD_API_KEY = os.getenv("ZBD_API")

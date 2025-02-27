@@ -1,0 +1,8 @@
+Mercado Pago public key=TEST-0a164ed0-73cb-4924-820d-d7b1d2f3446d
+Mercado Pago access token=TEST-4487319907890001-022415-5d7a25b54b90a7c883ee351897897807-674150690
+Paypal Client ID=ASWYSSTRmpo6QajDzWQivHoQTullKUnOLAyMSciYOXOCkvj02Xch0soVlSdHoeD67K_PYnVkSFR9yHsg
+PayPal Secret key 1=ELf97--cqvuyDmTOrcCcpV4bNVf_YV-xsbXwst41QJ4U0uEbHY5olFZSEEPFWxqLHNE2gtWgZlMVJB8E
+ZBD API=HCZIni6MaFXw796oKI64OUPLr2SCZIk1
+ZBD=bellLumen@zbd.gg
+Outlook=bell.Lumen@outlook.com
+Telegram HTTP API=8059839602:AAHDU7ovFNcFeilhMYxgR2hcoM7kZBi-d4w
